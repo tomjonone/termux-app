@@ -1,0 +1,4 @@
+{https://github.com/termux/termux-app.git
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {https://github.com/termux/termux-app.git}
+}
